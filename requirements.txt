@@ -1,0 +1,12 @@
+streamlit
+python-docx
+reportlab
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+langchain-huggingface
+huggingface_hub
+torch
